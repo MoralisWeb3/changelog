@@ -14,5 +14,9 @@ This repo will contain detailed information about the changes, when the changes 
 
 ## If you have questions
 
-Please post in [Moralis Forum](https://forum.moralis.io/t/general-discussion-about-the-changelog/14532) is you have questions or want to discuss this repository.
+Please post in [General Discussion About The Changelog in Moralis Forum](https://forum.moralis.io/t/general-discussion-about-the-changelog/14532) is you have questions or want to discuss this repository.
 
+
+## If you want to open an issue
+
+To open an issue please create a new thread in [Moralis Forum in this category](https://forum.moralis.io/c/changelog/).
