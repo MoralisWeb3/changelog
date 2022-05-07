@@ -12,6 +12,10 @@ If you are building using Moralis you have to be informed about the upcoming cha
 
 This repo will contain detailed information about the changes, when the changes will go live and how to adapt your code in order to stay up to date.
 
+## Structure Of Changelogs
+
+Please read [this document](https://github.com/MoralisWeb3/changelog/blob/main/pull_request_template.md) explaining the structure of the changelogs.
+
 ## If you have questions
 
 Please post in [General Discussion About The Changelog in Moralis Forum](https://forum.moralis.io/t/general-discussion-about-the-changelog/14532) is you have questions or want to discuss this repository.
