@@ -5,6 +5,7 @@
 - [ ] API
 - [ ] Admin UI
 - [ ] Nodes
+- [ ] Servers
 
 ## Is this a breaking change?
 - [ ] yes
