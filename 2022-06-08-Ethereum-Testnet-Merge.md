@@ -5,7 +5,7 @@
 - [x] API
 - [ ] Admin UI
 - [x] Nodes
-- [ ] Servers
+- [x] Servers
 
 ## Is this a breaking change?
 - [x] yes
@@ -25,7 +25,7 @@ The following testnets will no longer receive protocol upgrades and shall no lon
 - The Ropsten Testnet (PoW, chain ID 3) will be receiving the merge upgrade for testing purposes but subsequently be deprecated in 2022.
 
 ## What exactly can break?
- The following testnets will be removed post-merge from Moralis Nodes and from Moralis API:
+ The following testnets will be removed post-merge from Moralis Server, Moralis Nodes and from Moralis API:
 ### Kovan: 
 - it has been declared dead multiple times.
 - it will not be upgraded for the merge and subsequent protocol upgrades. 
@@ -46,7 +46,7 @@ The following testnets will no longer receive protocol upgrades and shall no lon
 ### Migrate to Goerli (Recommended)
 
 The best way to ensure no of your test environments break is to migrate to Goerli.
-Nothing will change for Goerli and Moralis already offers Goerli support in Moralis Nodes and Moralis API.
+Nothing will change for Goerli and Moralis already offers Goerli support in Moralis Server, Moralis Nodes and Moralis API.
 
 - Get some goerli Ethers (gEth), from faucets: [goerli faucet](https://goerlifaucet.com/) or [Goerli Authenticated Faucet](https://goerli-faucet.mudit.blog/)
 - Migrate/Deploy your Smart Contract(s) to Goerli testnet. 
