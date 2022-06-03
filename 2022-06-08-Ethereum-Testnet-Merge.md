@@ -2,7 +2,7 @@
 
 ## Products affected
 - [ ] SDK
-- [ ] API
+- [x] API
 - [ ] Admin UI
 - [x] Nodes
 - [ ] Servers
@@ -25,7 +25,7 @@ The following testnets will no longer receive protocol upgrades and shall no lon
 - The Ropsten Testnet (PoW, chain ID 3) will be receiving the merge upgrade for testing purposes but subsequently be deprecated in 2022.
 
 ## What exactly can break?
- The following testnets will be removed post-merge:
+ The following testnets will be removed post-merge from Moralis Nodes and from Moralis API:
 ### Kovan: 
 - it has been declared dead multiple times.
 - it will not be upgraded for the merge and subsequent protocol upgrades. 
@@ -42,7 +42,24 @@ The following testnets will no longer receive protocol upgrades and shall no lon
 - applications on Ropsten should prepare to migrate to Goerli or Sepolia as soon as possible.
 
 ## How to ensure my app won't break?
+
+### Migrate to Goerli (Recommended)
+
+The best way to ensure no of your test environments break is to migrate to Goerli.
+Nothing will change for Goerli and Moralis already offers Goerli support in Moralis Nodes and Moralis API.
+
+- Get some goerli Ethers (gEth), from faucets: [goerli faucet](https://goerlifaucet.com/) or [Goerli Authenticated Faucet](https://goerli-faucet.mudit.blog/)
+- Migrate/Deploy your Smart Contract(s) to Goerli testnet. 
+
+*IMPORTANT:* Goerli will be rebranded to Prater after the merge.
+
+
 ### Migrate to Sepolia
+
+Moralis is working on adding Sepolia testnet to Moralis Nodes and Moralis API.
+
+We expect this to be done at the merge date which should be around June 8th.
+
 - Add Sepolia Tesnet to Metamask:
 ```
 Network Name: Sepolia Testnet
@@ -53,9 +70,7 @@ Symbol: SEP
 - Get some Sepolia Ethers (SEP), from [Sepolia faucet](https://faucet.sepolia.dev/)
 - Migrate/Deploy your Smart Contract(s) to Sepolia testnet.
 
-### Migrate to Goerli (Recommended)
-- Get some goerli Ethers (gEth), from faucets: [goerli faucet](https://goerlifaucet.com/) or [Goerli Authenticated Faucet](https://goerli-faucet.mudit.blog/)
-- Migrate/Deploy your Smart Contract(s) to Goerli testnet. 
+
 
 ## When will this change go live and be mandatory?
 
