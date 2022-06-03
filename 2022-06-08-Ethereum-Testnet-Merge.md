@@ -19,9 +19,9 @@ The Ethereum core developers decided that the following testnets will be maintai
 
 The following testnets will no longer receive protocol upgrades and shall no longer be considered:
 
-- Kovan (PoA, chain ID 42, retired with Parity Ethereum in 2019)
-- Ropsten (PoW, chain ID 3, replaced by Sepolia in 2021)
-- Rinkeby (PoA, chain ID 4, retired before the merge in 2022)
+- Kovan (PoA, chain ID 42)
+- Ropsten (PoW, chain ID 3)
+- Rinkeby (PoA, chain ID 4)
 - The Ropsten Testnet (PoW, chain ID 3) will be receiving the merge upgrade for testing purposes but subsequently be deprecated in 2022.
 
 ## What exactly can break?
@@ -59,4 +59,6 @@ Symbol: SEP
 
 ## When will this change go live and be mandatory?
 
-Around June 8, 2022.
+We cant't set a exact date because we have to wait for the merge to happen, its rely on the TTD.
+
+Proof-of-Work testnets can have volatile hash rates and the exact timing of The Merge is hard to predict accurately. Assuming no unexpected hash rate fluctuations, we expect The Merge to happen around June 8-9, 2022
