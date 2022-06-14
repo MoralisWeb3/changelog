@@ -24,6 +24,10 @@ The following methods on our RPC nodes will only be available for the latest 15 
  - eth_getTransactionReceipt
  - eth_getLogs
 
+If you are a paying client already - you will not get affected, we will honor your subscription.
+
+All future clients and free users are affected.
+
 ## What exactly can break?
 If you are using our nodes for some kind of database building, or for other reasons are using our nodes to fetch information older than 15 minutes using any of the methods listed above you will not be able to do so.
 For the time being you will still be able to use these methods for recent blocks.
