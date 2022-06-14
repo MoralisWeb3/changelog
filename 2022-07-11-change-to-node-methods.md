@@ -33,6 +33,8 @@ If you are using our nodes in the ways listed above, we  encourage you to use an
 You can find partner providers here: https://moralis.io/largenodes
 
 We highly encourage you to also use our Web3API where you will be able to fetch the same information that we are now limiting from the nodes, still we provide an even better developer experience.
+https://docs.moralis.io/moralis-dapp/web3-api
+
 
 ## When will this change go live ?
 2022-07-11
