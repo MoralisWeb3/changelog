@@ -32,6 +32,8 @@ For the time being you will still be able to use these methods for recent blocks
 If you are using our nodes in the ways listed above, we  encourage you to use another chain provider.
 You can find partner providers here: https://moralis.io/largenodes
 
+We highly encourage you to also use our Web3API where you will be able to fetch the same information that we are now limiting from the nodes, still we provide an even better developer experience.
+
 ## When will this change go live ?
 2022-07-11
 
