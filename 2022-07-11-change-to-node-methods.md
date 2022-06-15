@@ -28,6 +28,8 @@ If you are a paying client already - you will not get affected, we will honor yo
 
 All future clients and free users are affected.
 
+We will also stop offering WS connections and archive nodes.
+
 ## What exactly can break?
 If you are using our nodes for some kind of database building, or for other reasons are using our nodes to fetch information older than 15 minutes using any of the methods listed above you will not be able to do so.
 For the time being you will still be able to use these methods for recent blocks.
