@@ -29,6 +29,6 @@ The `token_address` field, which accepts a single string value rather than a lis
 
 ## Link to Moralis Forum for disucssions
 
-Create a thread in Moralis forum in this category (https://forum.moralis.io/c/changelog/20) and name the thread with the same TITLE as this MR and link it here
+https://forum.moralis.io/t/changes-to-the-nft-search-endpoint-nft-search-from-july-1-2022/16715
 
 We have staff monitoring forum 24/7 - while we don't monitor github as much - so we need everyone to discuss in the forum
