@@ -1,4 +1,4 @@
-# Changes in available Node methods for FREE plan starting July 11, 2022
+# Speedy Nodes Removal
 
 ## Products affected
 - [ ] SDK
