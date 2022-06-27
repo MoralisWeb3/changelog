@@ -1,4 +1,4 @@
-# Changes to the NFT search endpoint: `/nft/search`
+# Changes to the NFT search endpoint: `/nft/search` from July 1, 2022
 
 ## Products affected
 - [ ] SDK
@@ -25,7 +25,7 @@ The `token_address` field, which accepts a single string value rather than a lis
 
 ## When will this change go live and be mandatory?
 
-2022-07-11
+2022-07-01
 
 ## Link to Moralis Forum for disucssions
 
