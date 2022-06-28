@@ -56,6 +56,8 @@ You can find partner providers here: https://moralis.io/largenodes
 We highly encourage you to also use our Web3API where you will be able to fetch the same information that we are now limiting from the nodes, still we provide an even better developer experience.
 https://docs.moralis.io/moralis-dapp/web3-api
 
+For cloud code, web3ByChain will also be discontinued, you can use a custom RPC url with an web3 provider as described in [documentation](https://docs.moralis.io/moralis-dapp/cloud-code/cloud-functions#example-of-how-to-use-a-custom-rpc-url)
+
 
 ## When will this change go live ?
 2022-07-11
