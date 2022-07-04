@@ -8,7 +8,7 @@
 - [ ] Servers
 
 ## Is this a breaking change?
-- [] yes
+- [ ] yes
 - [X] no
 
 ## Description of the change
