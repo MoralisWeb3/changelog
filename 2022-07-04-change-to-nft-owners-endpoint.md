@@ -13,7 +13,7 @@
 
 ## Description of the change
 
-To provide a consistent and recent return of data based on recent activity on the nfts, the endpoints `/nft/:address/owners` and `/nft/:address/:token_id/owners` will no longer be ordered by the `transfer_index` column but instead by the `updated_at` column.
+The endpoints `/nft/:address/owners` and `/nft/:address/:token_id/owners` will no longer be ordered based on descending block number but rather based on descending activity timestamp to give a consistent return of data based on recent activity on the nfts.
 
 ## What exactly can break?
 
@@ -25,7 +25,7 @@ Nothing needs to be done as it is not a breaking change
 
 ## When will this change go live and be mandatory?
 
-2022-07-05
+2022-07-04
 
 ## Link to Moralis Forum for disucssions
 
