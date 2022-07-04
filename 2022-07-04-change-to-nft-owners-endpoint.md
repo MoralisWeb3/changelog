@@ -1,4 +1,4 @@
-# Changes to the NFT owners endpoint: `/nft/:address/owners` and `/nft/:address/:token_id/owners` from July 5, 2022
+# Changes to the NFT owners endpoint: `/nft/:address/owners` and `/nft/:address/:token_id/owners` from July 4, 2022
 
 ## Products affected
 - [ ] SDK
