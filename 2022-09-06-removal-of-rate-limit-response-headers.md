@@ -1,4 +1,4 @@
-# Title of the change and version
+# Removal of Rate Limit Response headers
 
 ## Products affected
 - [ ] SDK
@@ -13,7 +13,7 @@
 
 ## Description of the change
 
-For the purpose of optmization, rate limiting and throttling will now be handled asynchronously in such a way that the following will no longer be available in the response headers:
+For the purpose of optimization, rate limiting and throttling will now be handled asynchronously in such a way that the following will no longer be available in the response headers:
 - x-rate-limit-remaining-ttl
 - x-rate-limit-remaining-ip-ttl
 - x-rate-limit-used
@@ -30,6 +30,8 @@ For the purpose of optmization, rate limiting and throttling will now be handled
 - x-rate-limit-ip-used
 - x-rate-limit-limit
 
+
+
 ## What exactly can break?
 
 If you rely on these response headers to adjust your request rate, you may experience issues.
@@ -40,18 +42,10 @@ Rather than adjusting request rate based on the headers returned, your code shou
 
 ## When will this change go live and be mandatory?
 
-2022-08-19
+2022-09-06
 
 ## Link to Moralis Forum for disucssions
 
-Create a thread in Moralis forum in this category (https://forum.moralis.io/c/changelog/20) and name the thread with the same TITLE as this MR and link it here
+https://forum.moralis.io/t/removal-of-rate-limit-response-headers-on-sept-6-2022/18873
 
-We have staff monitoring forum 24/7 - while we don't monitor github as much - so we need everyone to discuss in the forum
 
-## Code Examples
-
-Give as many code examples as possible for different scenarios.
-
-## Best practices
-
-Explain best practices
