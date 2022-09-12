@@ -27,7 +27,7 @@ Nothing needs to be done as it is not a breaking change
 
 2022-07-04
 
-## Link to Moralis Forum for disucssions
+## Link to Moralis Forum for discussions
 
 https://forum.moralis.io/t/changes-to-the-nft-owners-endpoint-nft-address-owners-and-nft-address-token-id-owners-from-july-4-2022/17001
 

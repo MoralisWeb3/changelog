@@ -44,7 +44,7 @@ Rather than adjusting request rate based on the headers returned, your code shou
 
 2022-09-06
 
-## Link to Moralis Forum for disucssions
+## Link to Moralis Forum for discussions
 
 https://forum.moralis.io/t/removal-of-rate-limit-response-headers-on-sept-6-2022/18873
 

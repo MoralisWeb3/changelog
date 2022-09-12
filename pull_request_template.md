@@ -27,7 +27,7 @@ Explain what needs to be done to avoid the apps breaking.
 
 Exact date
 
-## Link to Moralis Forum for disucssions
+## Link to Moralis Forum for discussions
 
 Create a thread in Moralis forum in this category (https://forum.moralis.io/c/changelog/20) and name the thread with the same TITLE as this MR and link it here
 
