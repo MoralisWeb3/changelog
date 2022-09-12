@@ -31,7 +31,7 @@ Note that this only applies if you are using the latest version of the SDK or wa
 
 2022-08-10
 
-## Link to Moralis Forum for disucssions
+## Link to Moralis Forum for discussions
 
 https://forum.moralis.io/t/moralis-v1-support-august-8-2022/18383
 
