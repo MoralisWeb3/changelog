@@ -1,0 +1,29 @@
+# Removal of support for Kovan, Rinkeby and Ropsten from Oct 12, 2022
+
+## Products affected
+* [] SDK
+* [x] API
+* [] Admin UI
+
+## Is this a breaking change?
+* [x] yes
+* [] no
+
+## Description of the change
+
+### No more support for deprecated testnets
+The Ethereum networks Kovan, Rinkeby and Ropsten will no longer be supported in the API. 
+
+## What exactly can break?
+If your application relies on using any of these testnets in your API calls to Moralis, those calls will fail after this change. 
+
+## How to ensure my app won't break?
+You need to switch all your testnet operations to one of the two supported testnets, Goerli or Sepolia.
+
+## When will this change go live and be mandatory?
+2022-10-12
+
+## Link to Moralis Forum for discussions
+https://forum.moralis.io/t/removal-of-support-for-kovan-rinkeby-and-ropsten-on-october-12/20007
+
+We have staff monitoring forum 24/7 - while we don't monitor github as much - so we need everyone to discuss in the forum
